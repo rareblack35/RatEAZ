@@ -85,11 +85,6 @@
        ```
  1. Now compile the code with appt2.
  1. Install the app in victim's device and give all the permissions after that the connection will show up in web panel.
-  ### PoC Video 
- 1. https://youtu.be/i3JAHcsWwu0 (old video)
-  ### Tutorial Videos
-  1. https://youtu.be/an2BALW73j4 (SPHANTER)
-  1. https://youtu.be/atSX_YDniyM (Mr.Ethical YT)
 
 ### ❤️Supporters❤️
 [![Stargazers repo roster for @github.com/rareblack35/](https://reporoster.com/stars/dark/rareblack35/RatEAZ)](https://github.com/rareblack35/RatEAZ/stargazers)
@@ -104,9 +99,7 @@
  1. Ransomware (encrypt all the files and show the notification demanding for ransom)
  1. Auto Start Permission for all chinese vendors.
  1. Hidden App without Foreground service notification (full stealth mode)
-  ### PoC Video
-  1. https://youtu.be/wWjJjaJEVAg
-
+  
 ## Contact Info 
  1. [Telegram](https://t.me/rareblack35)
 
